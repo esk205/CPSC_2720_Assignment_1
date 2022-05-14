@@ -1,0 +1,5 @@
+CPPUNIT_ASSERT_EQUALS is the most common one
+There are expected exceptions such as when you try to enter a negative number into the parameters
+You can use CPP_ASSERT if you want, you're just going to be checking equality manually
+i.e expected == actual instead of two separate parameters.
+and I believe he mentioned he only cares about equality to the nearest thousandth.

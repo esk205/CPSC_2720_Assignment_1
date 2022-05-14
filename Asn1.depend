@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1473964807 source:c:\users\john.anvik\desktop\asn1fall2016\src\main.cpp
+	<cppunit/CompilerOutputter.h>
+	<cppunit/extensions/TestFactoryRegistry.h>
+	<cppunit/ui/text/TestRunner.h>
+
+1473964807 source:c:\users\john.anvik\desktop\asn1fall2016\src\testquad.cpp
+	"TestQuad.h"
+	<iostream>
+
+1473964807 c:\users\john.anvik\desktop\asn1fall2016\include\testquad.h
+	<cppunit/extensions/HelperMacros.h>
+	"Quadrilateral.h"
+	"Exceptions.h"
+
+1473964807 c:\users\john.anvik\desktop\asn1fall2016\include\quadrilateral.h
+	<Shape2D.h>
+
+1473964807 c:\users\john.anvik\desktop\asn1fall2016\include\shape2d.h
+	"GeometricShape.h"
+
+1473964807 c:\users\john.anvik\desktop\asn1fall2016\include\geometricshape.h
+
+1473964807 c:\users\john.anvik\desktop\asn1fall2016\include\exceptions.h
+	<stdexcept>
+
+1472237181 source:c:\users\john.anvik\onedrive - university of lethbridge\2720\fall2016\assignments\asn1\src\main.cpp
+	<cppunit/CompilerOutputter.h>
+	<cppunit/extensions/TestFactoryRegistry.h>
+	<cppunit/ui/text/TestRunner.h>
+
+1472237181 source:c:\users\john.anvik\onedrive - university of lethbridge\2720\fall2016\assignments\asn1\src\testquad.cpp
+	"TestQuad.h"
+	<iostream>
+
+1472237181 c:\users\john.anvik\onedrive - university of lethbridge\2720\fall2016\assignments\asn1\include\testquad.h
+	<cppunit/extensions/HelperMacros.h>
+	"Quadrilateral.h"
+	"Exceptions.h"
+
+1472237181 c:\users\john.anvik\onedrive - university of lethbridge\2720\fall2016\assignments\asn1\include\quadrilateral.h
+	<Shape2D.h>
+
+1472237181 c:\users\john.anvik\onedrive - university of lethbridge\2720\fall2016\assignments\asn1\include\shape2d.h
+	"GeometricShape.h"
+
+1472237181 c:\users\john.anvik\onedrive - university of lethbridge\2720\fall2016\assignments\asn1\include\geometricshape.h
+
+1472237181 c:\users\john.anvik\onedrive - university of lethbridge\2720\fall2016\assignments\asn1\include\exceptions.h
+	<stdexcept>
+

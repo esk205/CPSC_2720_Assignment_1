@@ -1,0 +1,31 @@
+#include "TestQuad.h"
+
+#include <iostream>
+
+// Registers the fixture into the 'registry'
+CPPUNIT_TEST_SUITE_REGISTRATION(TestQuadrilateral);
+
+void TestQuadrilateral::testPerimeter()
+{
+    CPPUNIT_ASSERT();
+}
+
+void TestQuadrilateral::testArea()
+{
+    CPPUNIT_ASSERT(false);
+}
+
+void TestQuadrilateral::testGetHeight()
+{
+    CPPUNIT_ASSERT(false);
+}
+
+
+void TestQuadrilateral::testPerimeterOverflow(){
+
+}
+
+void TestQuadrilateral::testGetWidth()
+{
+    CPPUNIT_ASSERT(false);
+}
